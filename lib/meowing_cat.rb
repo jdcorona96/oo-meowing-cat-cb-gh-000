@@ -1,4 +1,4 @@
 ## code your solution here.
-class clast
+class Cat
   attr_accessor :@cat
 end
